@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/atulr5124/twitter-clone-api#readme",
   "dependencies": {
+    "axios": "^0.21.1",
     "express": "^4.17.1"
   }
 }
